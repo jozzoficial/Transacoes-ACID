@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\JOZZ N\u00C9\\UNIKIV\\3\u00BA Ano\\2\u00BA SEMESTRE\\SGBD II\\TRABALHOS PR\u00C1TICOS\\ACID\\AcidDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4F45-F039-4A92-ABDE-A49149146F14}|AcidDemo.csproj|j:\\jozz n\u00E9\\unikiv\\3\u00BA ano\\2\u00BA semestre\\sgbd ii\\trabalhos pr\u00E1ticos\\acid\\aciddemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4F45-F039-4A92-ABDE-A49149146F14}|AcidDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4F45-F039-4A92-ABDE-A49149146F14}|AcidDemo.csproj|J:\\JOZZ N\u00C9\\UNIKIV\\3\u00BA Ano\\2\u00BA SEMESTRE\\SGBD II\\TRABALHOS PR\u00C1TICOS\\ACID\\AcidDemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D24F4F45-F039-4A92-ABDE-A49149146F14}|AcidDemo.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24F4F45-F039-4A92-ABDE-A49149146F14}|AcidDemo.csproj|J:\\JOZZ N\u00C9\\UNIKIV\\3\u00BA Ano\\2\u00BA SEMESTRE\\SGBD II\\TRABALHOS PR\u00C1TICOS\\ACID\\AcidDemo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24F4F45-F039-4A92-ABDE-A49149146F14}|AcidDemo.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "J:\\JOZZ N\u00C9\\UNIKIV\\3\u00BA Ano\\2\u00BA SEMESTRE\\SGBD II\\TRABALHOS PR\u00C1TICOS\\ACID\\AcidDemo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "J:\\JOZZ N\u00C9\\UNIKIV\\3\u00BA Ano\\2\u00BA SEMESTRE\\SGBD II\\TRABALHOS PR\u00C1TICOS\\ACID\\AcidDemo\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T14:38:57.704Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "J:\\JOZZ N\u00C9\\UNIKIV\\3\u00BA Ano\\2\u00BA SEMESTRE\\SGBD II\\TRABALHOS PR\u00C1TICOS\\ACID\\AcidDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "J:\\JOZZ N\u00C9\\UNIKIV\\3\u00BA Ano\\2\u00BA SEMESTRE\\SGBD II\\TRABALHOS PR\u00C1TICOS\\ACID\\AcidDemo\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAADwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T14:38:47.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "J:\\JOZZ N\u00C9\\UNIKIV\\3\u00BA Ano\\2\u00BA SEMESTRE\\SGBD II\\TRABALHOS PR\u00C1TICOS\\ACID\\AcidDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "J:\\JOZZ N\u00C9\\UNIKIV\\3\u00BA Ano\\2\u00BA SEMESTRE\\SGBD II\\TRABALHOS PR\u00C1TICOS\\ACID\\AcidDemo\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T14:32:15.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\bin\Debug\AcidDemo.exe.config
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\bin\Debug\AcidDemo.exe
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\bin\Debug\AcidDemo.pdb
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\bin\Debug\System.Data.SqlClient.dll
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\bin\Debug\System.Data.SqlClient.xml
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\obj\Debug\AcidDemo.csproj.AssemblyReference.cache
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\obj\Debug\AcidDemo.Form1.resources
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\obj\Debug\AcidDemo.Properties.Resources.resources
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\obj\Debug\AcidDemo.csproj.GenerateResource.cache
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\obj\Debug\AcidDemo.csproj.CoreCompileInputs.cache
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\obj\Debug\AcidDemo.csproj.Up2Date
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\obj\Debug\AcidDemo.exe
+J:\JOZZ NÉ\UNIKIV\3º Ano\2º SEMESTRE\SGBD II\TRABALHOS PRÁTICOS\ACID\AcidDemo\obj\Debug\AcidDemo.pdb
